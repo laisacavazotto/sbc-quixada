@@ -1,0 +1,582 @@
+﻿(1) Coleti T.A., Zacarias R.O., Divino S.B.S., Saraiva J.D.A.G., Salgado A.D.L., Gonçalves D.A., Morandini M., Santos R.P.D. GranDIHC-BR 2025-2035 - GC5 - Human-Data Interaction Data Literacy and Usable Privacy [GranDIHC-BR 2025-2035 - GC5 - Interação Humano-Dados, Literacia de Dados e Privacidade Usável]
+(2024) ACM International Conference Proceeding Series, art. no. 21.
+
+
+(2) Pereira R., Darin T., Silveira M.S. GranDIHC-BR: Grand Research Challenges in Human-Computer Interaction in Brazil for 2025-2035 [GranDIHC-BR: Grandes Desafios de Pesquisa em Interação Humano-Computador no Brasil para 2025-2035] (2024) ACM International Conference Proceeding Series, art. no. 16.
+
+
+(3)Duan, Qingyu and Liang, Mengli and Wang, Xiaoguang. The Human‐Data Interaction Driven by Data Reuse. John Wiley \& Sons, Inc. Proceedings of the Association for Information Science and Technology. volume 61. number1. 2024. USA.
+
+
+(4) Margariti E., Claisse C., Nabil S., Bridgens B., Durrant A.C., Kirk D.Human Building Interaction and Design for Climate Change (2024) DIS 2024 - Proceedings of the 2024 ACM Designing Interactive Systems Conference, pp. 462 - 466. 
+
+
+(5) De Kreij S., Ranasinghe C., Degbelo A. Data Physicalization and Tangible Manipulation for Engaging Children with Data: An Example with Air Quality Data (2024) Proceedings of ACM Interaction Design and Children Conference: Inclusive Happiness, IDC 2024, pp. 507 - 516.
+
+
+(6) ekete J.-D., Rong K., Omidvar-Tehrani B., Shraga R.
+Eighth Workshop on Human-In-the-Loop Data Analytics (HILDA)
+(2024) Proceedings of the ACM SIGMOD International Conference on Management of Data, pp. 657 - 658.
+
+
+(7) Sailaja N., Crabtree A., Lodge T., Chamberlain A., Coulton P., Pilling M., Forrester I. Making of an Adaptive Podcast that Engenders Trust through Data Negotiability
+(2024) IMX 2024 - Proceedings of the 2024 ACM International Conference on Interactive Media Experiences, pp. 334 - 341.
+
+
+(8) Hayes S., Jopling M., Connor S., Johnson M., Riordan S.
+‘Making you Aware of your Own Breathing’: Human Data Interaction, Disadvantage and Skills in the Community (2024) Postdigital Science and Education, 6 (2), pp. 627 - 642.
+
+
+
+
+(9) Friedman A., Cafaro F. Designing Gestures for Data Exploration with Public Displays via Identification Studies (2024) Information (Switzerland), 15 (6), art. no. 292.
+
+
+(10) Karahanoğlu A., Coskun A., Postma D., Scheltinga B.L., Gouveia R., Reidsma D., Reenalda J.Is it just a score? Understanding Training Load Management Practices Beyond Sports Tracking (2024) Conference on Human Factors in Computing Systems - Proceedings, art. no. 313.
+
+
+(11) Yuan J., Bhattacharjee K., Islam A.Z., Dasgupta A. TRIVEA: Transparent Ranking Interpretation using Visual Explanation of black-box Algorithmic rankers (2024) Visual Computer.
+
+
+(12) Banu R., Subramanian K.P., Shrivastava P. Impact of modality on cognitive load and data-driven decisions as perceived by novice users (2024) AIP Conference Proceedings.
+
+
+(13) Dowthwaite A., Cook D., Cox A.L. Privacy preferences in automotive data collection (2024) Transportation Research Interdisciplinary Perspectives, 24, art. no. 101022.
+
+(14) Li J., Shayboun M., Calis G., Calvetti D., Demian P., Kassem M., Msawil M., Soman R. Toward a working theory for Human-Data Interaction (HDI) in the Built Environment (BE) (2024) Proceedings of the 2024 European Conference on Computing in Construction.
+
+
+(15)Losciale P., Scarcelli A., Ricci M., Di Roma A. Human-Data Interaction Design for the Taxonomy Visualization of Made in Italy Upholstered Systems (2024) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14688 LNCS, pp. 388 - 400.
+
+(16)Victorelli E.Z., Dos Reis J.C. Adopting Human-data Interaction Guidelines and Participatory Practices for Supporting Inexperienced Designers in Information Visualization Applications (2024) Journal of the Brazilian Computer Society, 30 (1).
+
+
+(17)Durango I., R. Penichet V.M., Gallud J.A. Exploring human-data interaction: an AI-enhanced systematic mapping
+(2024) Universal Access in the Information Society.
+
+(18) Calvetti D., Kifokeris D., Mêda P., Sousa H. HUMAN-DATA INTERACTION AS A CRITICAL ENABLER OF ELECTRONIC PERFORMANCE MONITORING AT CONSTRUCTION SITES (2024) Journal of Information Technology in Construction, 29, pp. 722 - 749.
+
+
+(19) Coleti T.A., Morandini M., Filgueiras L.V.L. Human-Data Interaction Syllabus for Undergraduate and Graduate Courses (2024) Journal on Interactive Systems, 15 (1), pp. 36 - 54.
+
+
+(20) Xambó A., Roma G. Human–machine agencies in live coding for music performance (2024).
+
+
+(21) Theys T., Bourgeus A., Mechant P., De Marez L., Saldien J. Expert Perspectives on UX Design Challenges for Solid-Enabled Personal Data Store Applications (2024) Communications in Computer and Information Science, 2119 CCIS, pp. 136 - 145.
+
+
+(22) Theys T., Haegemans T., Mechant P., Bourgeus A., Saldien J. Solid-Enabled Personal Online Data Stores: Uncovering UX Implications for Online Data Management (2024) Applied Human Factors and Ergonomics International.
+
+
+(23) Baldazzi T., Benedetto D., Bellomarini L., Sallinger E., Vlad A. Softening Ontological Reasoning with Large Language Models (2024) 8th International Joint Conference on Rules and Reasoning, RuleML+RR-Companion 2024.
+
+
+
+
+(24) Sullutrone G. Large Language Models integration in Digital Humanities (2024) CEUR Workshop Proceedings.
+
+
+(25) Burzio G., Ferraro V. CLARIFYING DEFINITIONS: A SCOPING REVIEW OF DATA PHYSICALIZATION IN HUMAN-COMPUTER INTERACTION (2024) Proceedings of the International Conferences on Interfaces and Human Computer Interaction 2024, IHCI 20244; Game and Entertainment Technologies 2024, GET 2024; and Computer Graphics, Visualization, Computer Vision and Image Processing 2024, CGVCVIP 2024, pp. 211 - 215.
+
+
+(26 )Capeleti B.S., dos Santos França J.B., Freire A.P. Heuristic Evaluation of a Publicly Accessible Geoprocessing Platform: Categories of Usability Issues (2024) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14536 LNCS, pp. 123 - 131.
+
+
+(27) Lenzi S., Ciuccarelli P., Offenhuber D. Towards a definition of Autographic Sonifications: Listening as an act of knowledge (2024) Proceedings of DRS, 2024.
+
+
+(28) Lenzi S., Özcan E., Mora S., Mazzarello M., Haatveit A., Duarte F. What in the world do we hear? Understanding public and private spaces through SoundAI (2024) Proceedings of DRS.
+
+
+(29) Xiao F., Chi Y., He D. Promoting data use through understanding user behaviors: A model for human open government data interaction (2023) Journal of the Association for Information Science and Technology.
+
+
+(30) Ambe A.H., Roomkham S., Lovell D., Brereton M. Rethinking the Design of Human-Data Interaction through a Study of Older Adults' Wellbeing (2023) ACM International Conference Proceeding Series, pp. 266 - 279.
+
+
+
+
+(31) Martinez-Maldonado R. Data Storytelling: Revolutionising Human-Data Interaction or Just Passing Hype?(2023) ACM International Conference Proceeding Series, art. no. 37
+
+
+(32) De Bettio R.W., Melchiori A.P., Freire A.P., Albuquerque A.C., Aguiar E.H.D.A. Question-based interaction with geolocated data for environmental surveillance by the Brazilian Federal Public Ministry (2023) ACM International Conference Proceeding Series, pp. 467 - 469.
+
+
+(33) Gagel J., Hustedt J., Lüttig T., Berg T., Abrami G., Mehler A. News in Time and Space: Global Event Exploration in Virtual Reality (2023) HT 2023 - The 34th ACM Conference on Hypertext and Social Media, art. no. 7.
+
+
+(34) Jordan B., Koesten L., Möller T. Chatting about Data - Interacting with Voice Interfaces to Engage with Election Panel Data (2023) Proceedings of the 5th International Conference on Conversational User Interfaces, CUI 2023, art. no. 34.
+
+
+(35) Ranasinghe C., Degbelo A. Encoding Variables, Evaluation Criteria, and Evaluation Methods for Data Physicalisations: A Review (2023) Multimodal Technologies and Interaction, 7 (7), art. no. 73.
+
+
+(36) Moritz D., Omidvar-Tehrani B., Roy S. Seventh Workshop on Human-In-the-Loop Data Analytics (HILDA) (2023) Proceedings of the ACM SIGMOD International Conference on Management of Data, pp. 311 - 312.
+
+
+(37) Kurze A., Köpferl K., Eibl M. Data-I - Interactive Experience of IoT Data: A Practical Tool for IoT Sensor Data in Interdisciplinary Human-Computer Interaction Education (2023) ACM International Conference Proceeding Series, pp. 85 - 90.
+
+
+(38) Raj S., Gupta T., Lee J., Kay M., Newman M.W. ``It can bring you in the right direction'': Episode-Driven Data Narratives to Help Patients Navigate Multidimensional Diabetes Data to Make Care Decisions. (2023) Conference on Human Factors in Computing Systems - Proceedings, art. no. 470.
+
+
+(39) Lee-Smith M.L., Benjamin J.J., Desjardins A., Funk M., Odom W., Oogjes D., Park Y.-W., Pierce J., Sanches P., Tsaknaki V. Data as a Material for Design: Alternative Narratives, Divergent Pathways, and Future Directions (2023) Conference on Human Factors in Computing Systems - Proceedings, art. no. 342.
+
+
+(40) Guerrero Millan C. Living Data Systems: Co-Designing Community-Based Methods And Local Technologies For Inclusive Socioeconomic Alternatives. (2023) Conference on Human Factors in Computing Systems - Proceedings, art. no. 500.
+
+
+(41) Calvetti D., Kifokeris D., Mêda P., Hjelseth E. Human-data interaction in incremental digital twin construction (2023) Proceedings of the 2023 European Conference on Computing in Construction and the 40th International CIB W78 Conference.
+
+
+(42) Li J., Kifokeris D.G., Barati M., Calis G., Gledson B.J., Hall D.M., Hunhevicz J.J., Kassem M., Msawil M., Srećković M. HUMAN-DATA INTERACTION (HDI) AND BLOCKCHAIN: AN EXPLORATION OF THE OPEN RESEARCH CHALLENGES FOR THE CONSTRUCTION COMMUNITY (2023) Proceedings of the European Conference on Computing in Construction.
+
+
+(43) Meechan D. The Datafication of Education in England: A Children’s Rights-Based Approach to Human Data Interaction Theory (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 223 - 241.
+
+
+(44) Ogwude U. Digital Exclusion and the Data Creation Gap: An Exploration of the Connections Between Social Limits to Data Access, Data Creation, and Nuanced Exclusions In Human Data Interactions (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 3 - 14.
+
+
+(45) Boychev N., Schmid K.L., Jonuscheit S. Human Data Interactions in Digital Modes of Eye Care (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 27 - 50.
+
+
+(46) Hayes S., Jopling M., Connor S., Johnson M. Introduction: Human Data Interaction, Disadvantage and Skills in the Community: Enabling Cross-Sector Environments for Postdigial Inclusion (2023) Postdigital Science and Education (Switzerland).
+
+
+(47) Capeleti B.S., Santos C.Q., de Souza J.I., Freire A.P. Usability Evaluation of a Brazilian Dam Safety Data Exploration Platform: A Consolidation of Results from User Tests and Heuristic Evaluation (2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14145 LNCS, pp. 100 - 119.
+
+
+(48) Roberts J., Lowy R., Li H., Bellona J., Smith L., Bower A. Breaking Down the Visual Barrier: Designing Data Interactions for the Visually Impaired in Informal Learning Settings (2023) Computer-Supported Collaborative Learning Conference, CSCL, 2023-June, pp. 253 - 256.
+
+
+(49) Manohar A., Sengul C., Chen J. Inclusive Privacy Control at Home for Smart Health (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 151 - 176.
+
+
+(50) Meechan D. The Datafication of Education in England: A Children’s Rights-Based Approach to Human Data Interaction Theory (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 223 - 241.
+
+
+(51) Bentley J., Clark H. Working Towards a 100\% Digitally Included Wolverhampton (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 15 - 25.
+
+
+(52) Grace D., Haddock B. Innovative Assessment Using Smart Glasses In Further Education: HDI Considerations (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 93 - 110.
+
+
+(53) Jandric´ P., Hayes S. Social Participation in a Postdigital–Biodigital Age (2023) Palgrave Studies in Educational Media.
+
+
+(54) Refat N., Patwary M., Rahman M.A. Digital Inclusion Towards e-Governance: Challenges and Issues (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 135 - 150.
+
+
+(55) Royle K., Hawkins G. Primary School Reading Diaries, Digital Enclosure and the Common Good: Exploring an Alternative Postdigital Commons Based on Data Cooperatives (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 243 - 259.
+
+
+(56) Payne A.L., Compton M., Kennedy S. Supporting And Humanising Behavioural Change without the Behaviourism: Digital Footprints, Learning Analytics and Nudges (2023) Postdigital Science and Education (Netherlands), Part F3831, pp. 111 - 131.
+
+
+(57) Shi J., Pan Y., Xiang Y., Liu X., Wang Y., Ji C. Visual Analysis of Ship Trajectories Based on Kernel Density Estimation (2023) 2023 9th International Conference on Virtual Reality, ICVR 2023, pp. 276 - 283.
+
+
+(58) Victorelli E.Z., dos Reis J.C. Evaluating User Experience in Information Visualization Systems: UXIV an Evaluation Questionnaire (2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14015 LNCS, pp. 320 - 338.
+
+(59) Bestek M., Grönvall E. Health Data Semantics: Exploring Requirements for Sustainable Health Systems (2023) Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST, 488 LNICST, pp. 361 - 375.
+
+
+(60) Nelson J.K. Cartography \& geovisual analytics in personal contexts: designing for the data creator (2023) International Journal of Cartography, 9 (2), pp. 210 - 230.
+
+
+(61) Paredes Y.V., Hsiao I.-H. Combining Data and Human Intelligence through Predictive Visual Analytics to Improve Educational Assessments (2022) 30th International Conference on Computers in Education Conference, ICCE 2022 - Proceedings, 1, pp. 317 - 319.
+
+
+(62) Stead M., Coulton P., Pilling F., Gradinar A., Pilling M., Forrester I. More-than-Human-Data Interaction (2022) ACM International Conference Proceeding Series, pp. 62 - 74.
+
+(63) Brombacher H., Houben S., Vos S. SensorBadge: An Exploratory Study of an Ego-centric Wearable Sensor System for Healthy Office Environments (2022) DIS 2022 - Proceedings of the 2022 ACM Designing Interactive Systems Conference: Digital Wellbeing, pp. 1863 - 1877.
+
+(64) Abouzied A., Moritz D., Cafarella M.J. HILDA'22: The SIGMOD 2022 Workshop on Human-in-the-Loop Data Analytics. (2022) Proceedings of the ACM SIGMOD International Conference on Management of Data, pp. 2552 - 2553.
+
+(65) Bowyer A., Holt J., Go Jefferies J., Wilson R., Kirk D., David Smeddinck J. Human-GDPR Interaction: Practical Experiences of Accessing Personal Data. (2022) Conference on Human Factors in Computing Systems - Proceedings, art. no. 106.
+
+
+(66) Tendedez H., Ferrario M.A., McNaney R., Gradinar A.I. Exploring Human-Data Interaction in Clinical Decision-making Using Scenarios: Co-design Study (2022) JMIR Human Factors.
+
+
+(67) Hayes S., Connor S., Johnson M., Jopling M. Connecting Cross-sector Community Voices: Data, Disadvantage, and Postdigital Inclusion (2021) Postdigital Science and Education.
+
+
+(68) Rostamzadeh N., Abdullah S.S., Sedig K., Garg A.X., McArthur E. Visual Analytics for Predicting Disease Outcomes Using Laboratory Test Results. (2022) Informatics, 9 (1), art. no. 17.
+
+
+(69) Ma Y. Improved Interaction of BIM Models for Historic Buildings with a Game Engine Platform (2022) Applied Sciences (Switzerland).
+
+
+(70) Konomi S. Big data for humans or humans for big data?: a human-data interaction perspective. (2022) CEUR Workshop Proceedings, 3136, pp. 14 - 20.
+
+(71) Barricelli B.R., Fischer G., Fogli D., Mørch A., Piccinno A., Valtolina S. CoPDA 2022 - Proceedings of the 6th International Workshop on Cultures of Participation in the Digital Age: AI for Humans or Humans for AI? (2022) CEUR Workshop Proceedings.
+
+(72) Pilling M., Coulton P., Lodge T., Crabtree A., Chamberlain A. Experiencing mundane AI futures (2022) Proceedings of DRS.
+
+
+(73) Corazza L., Antonini A., Dumay J., Cisi M. Sustainability Reporting and Interactive Storytelling: A Genre Approach for Humanising Business (2022) Humanizing Business.
+
+
+(74) Elhamdadi H., Gaba A., Kim Y.-S., Xiong C. How Do We Measure Trust in Visual Data Communication?. (2022) Proceedings - 2022 IEEE 9th Workshop on Evaluation and Beyond - Methodological Approaches to Visualization, BELIV 2022, pp. 85 - 92.
+
+(75) Kotnik A., Pullan G. A Spatial Arrangement Visualisation Strategy for Learning from Large Ensembles of Unsteady Flow-field Data. (2022) AIAA Science and Technology Forum and Exposition, AIAA SciTech Forum 2022, art. no. AIAA 2022-0810.
+
+
+(76) Bartram L., Correll M., Tory M. Untidy Data: The Unreasonable Effectiveness of Tables. (2022) IEEE Transactions on Visualization and Computer Graphics, 28 (1), pp. 686 - 696.
+
+
+(77) Phillips D., Smit M. Toward Best Practices for Unstructured Descriptions of Research Data (2021) Proceedings of the Association for Information Science and Technology, 58 (1), pp. 303 - 314.
+
+(78) Xia G., Yu L., Gong Z., Zhang Y., Zhang S., Zhu Z., Li H., Tang Y., Huang Y., Tian Z. Designing with biodiversity data: connections among design, materials, and technology. (2021) International Journal of Information Technology (Singapore), 13 (5), pp. 1703 - 1710.
+
+
+(79) Rainey J., Verweij D., Dodds C., Graeber J., Farhadi F., Ali R., Zhang V., Bull C.N., Smeddinck J.D. Data Contribution Summaries for Patient Engagement in Multi-Device Health Monitoring Research (2021) UbiComp/ISWC 2021 - Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers, pp. 536 - 541.
+
+
+(80) Rostamzadeh N., Abdullah S.S., Sedig K., Garg A.X., McArthur E. Veronica: Visual analytics for identifying feature groups in disease classification.(2021) Information (Switzerland), 12 (9), art. no. 344.
+
+
+(81) Briggs A., Cafaro F. End-user needs of fragmented databases in higher education data analysis and decision making. (2021) Informatics, 8 (3), art. no. 42.
+
+
+
+
+(82) Turkay C., Von Landesberger T., Archambault D., Liu S., Chang R. Special Issue on Interactive Visual Analytics for Making Explainable and Accountable Decisions. (2021) ACM Transactions on Interactive Intelligent Systems, 11 (3-4), art. no. 17.
+
+(83) Alhakamy A., Trajkova M., Cafaro F. Show Me How You Interact, I Will Tell You What You Think: Exploring the Effect of the Interaction Style on Users' Sensemaking about Correlation and Causation in Data. (2021) DIS 2021 - Proceedings of the 2021 ACM Designing Interactive Systems Conference: Nowhere and Everywhere, pp. 564 - 575.
+
+
+(84) Sailaja N., Jones R., McAuley D. Human data interaction in data-driven media experiences : AAn exploration of data sensitive responses to the socio-technical challenges of personal data leverage. (2021) IMX 2021 - Proceedings of the 2021 ACM International Conference on Interactive Media Experiences, pp. 108 - 119.
+
+
+(85) Sailaja N., Jones R., McAuley D. Human data interaction in data-driven media experiences : AAn exploration of data sensitive responses to the socio-technical challenges of personal data leverage. (2021) IMX 2021 - Proceedings of the 2021 ACM International Conference on Interactive Media Experiences, pp. 108 - 119.
+
+(86) Sailaja N., Lindley J., Urquhart L., McAuley D., Forrester I. Human-Data Interaction through Design: An explorative step from theory to practice using Design as a vehicle. (2021) Conference on Human Factors in Computing Systems - Proceedings.
+
+
+(87) Sailaja N., Jones R., McAuley D. Designing for Human Data Interaction in Data-Driven Media Experiences. (2021) Conference on Human Factors in Computing Systems - Proceedings.
+
+(88) Xiao F. Toward a Conceptual Model for Users' Online Open Government Data Interaction. (2021) CHIIR 2021 - Proceedings of the 2021 Conference on Human Information Interaction and Retrieval, pp. 355 - 358.
+
+
+(89) Koesten L., Gregory K., Groth P., Simperl E. Talking datasets – Understanding data sensemaking behaviours. (2021) International Journal of Human Computer Studies, 146, art. no. 102562.
+
+
+(90) Calvetti D., Mêda P., Sousa H., Gonçalves M.C. Human Data Interaction in Sensored Sites, Challenges of the Craft Workforce Dimension (2021) Proceedings of the 2021 European Conference on Computing in Construction.
+
+
+(91) Chatzimichali A., Harrison R., Chrysostomou D. Toward privacy-sensitive human–robot interaction: Privacy terms and human–data interaction in the personal robot era (2020) Paladyn Journal of Behavioral Robotics.
+
+
+(92) Xie A., Ho J.C.F., Wang S.J. Data City: Leveraging Data Embodiment Towards Building the Sense of Data Ownership. (2021) Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST, 367 LNICST, pp. 365 - 378.
+
+
+(93) Lockwood M. Exploring Value Propositions to Drive Self-Sovereign Identity Adoption. (2021) Frontiers in Blockchain, 4, art. no. 611945.
+
+
+(94) Crabtree A., Haddadi H., Mortier R. Privacy by Design for the Internet of Things: Building accountability and security (2021) Institution of Engineering and Technology.
+
+
+(95) Li J., Shayboun M., Calis G., Calvetti D., Demian P., Kassem M., Msawil M., Soman R. Toward a working theory for Human-Data Interaction (HDI) in the Built Environment (BE) (2024) Proceedings of the 2024 European Conference on Computing in Construction.
+
+
+(96) Daddi G., Corpino S. Extended reality integrated into trade space exploration. (2021) Proceedings of the International Astronautical Congress, IAC, D1.
+
+
+(97) Koesten L., Vougiouklis P., Simperl E., Groth P. Dataset Reuse: Toward Translating Principles to Practice (2020) Patterns, 1 (8), art. no. 100136.
+
+
+(98) Zou N., Liang S., He D. Issues and challenges of user and data interaction in healthcare-related IoT: A systematic review. (2020) Library Hi Tech, 38 (4), pp. 769 - 782.
+
+(99) Victorelli E.Z., Reis J.C.D. Human-data interaction design guidelines for visualization systems. (2020) IHC 2020 - Proceedings of the 19th Brazilian Symposium on Human Factors in Computing Systems.
+
+
+(100) Ferrari B., Junior D.P.D.S., Pereira R. Systemic view of human-data interaction: Analyzing a COVID-19 data visualization platform. (2020) IHC 2020 - Proceedings of the 19th Brazilian Symposium on Human Factors in Computing Systems.
+
+
+(101) Xiao F., Ma R., He D. Task-based human-structured research data interaction: A discipline independent examination. (2020) Proceedings of the Association for Information Science and Technology, 57 (1), art. no. e308.
+
+
+(102) Trajkova M., Alhakamy A., Cafaro F., Vedak S., Mallappa R., Kankara S.R. Exploring casual COVID-19 data visualizations on Twitter: Topics and challenges. (2020) Informatics, 7 (3), art. no. 35.
+
+
+(103) Locoro A., Cabitza F., Ravarini A., Buono P. IGV short scale to assess implicit value of visualizations through explicit interaction. (2020) Applied Sciences (Switzerland), 10 (18), art. no. 6189.
+
+
+(104) Lee-Smith M. The data hungry home: Humans harvesting data for living devices. (2020) DIS 2020 Companion - Companion Publication of the 2020 ACM Designing Interactive Systems Conference, pp. 527 - 535.
+
+
+(105) Alhakamy A., Cafaro F., Trajkova M., Kankara S., Mallappa R., Veda S. Design strategies and optimizations for human-data interaction systems in museums.(2020) Proceedings - IEEE 20th International Conference on Advanced Learning Technologies, ICALT 2020, art. no. 9155900, pp. 246 - 248.
+
+
+(106) Abdullah S.S., Rostamzadeh N., Sedig K., Garg A.X., McArthur E. Multiple regression analysis and frequent itemset mining of electronic medical records: A visual analytics approach using visam3r3. (2020) Data, 5 (2), art. no. 33
+
+
+(107) Abdullah S.S., Rostamzadeh N., Sedig K., Garg A.X., McArthur E. Visual analytics for dimension reduction and cluster analysis of high dimensional electronic health records. (2020) Informatics, 7 (2), art. no. 17
+
+
+(108) Trajkova M., Alhakamy A., Cafaro F., Mallappa R., Kankara S.R. Move Your Body: Engaging Museum Visitors with Human-Data Interaction. (2020) Conference on Human Factors in Computing Systems - Proceedings, art. no. 3376186.
+
+
+(109) Lindley J., Akmal H.A., Pillling F., Coulton P. Researching AI Legibility through Design. (2020) Conference on Human Factors in Computing Systems - Proceedings, art. no. 3376792.
+
+
+(110) Haghighati A., Sedig K. VARTTA: A visual analytics system for making sense of real-time twitter data. (2020) Data, 5 (1), art. no. 20.
+
+
+(111) Koesten L., Simperl E., Blount T., Kacprzak E., Tennison J. Everything you always wanted to know about a dataset: Studies in data summarisation.(2020) International Journal of Human Computer Studies, 135, art. no. 102367.
+
+
+(112) Victorelli E.Z., Dos Reis J.C., Hornung H., Prado A.B. Understanding human-data interaction: Literature review and recommendations for design. (2020) International Journal of Human Computer Studies, 134, pp. 13 - 32.
+
+
+(113) Cabitza F., Locoro A., Batini C. Making Open Data more Personal Through a Social Value Perspective: a Methodological Approach. (2020) Information Systems Frontiers, 22 (1), pp. 131 - 148.
+
+
+(114) Hitzler P., Janowicz K., Zhang G.-Q., Tao S., Zeng N., Cui L. Ontologies as nested facet systems for human–data interaction (2019) Semantic Web: – Interoperability, Usability, Applicability.
+
+
+(115) Victorelli E.Z., Dos Reis J.C., Santos A.A.S., Schiozer D.J. A Design Process Integrating Human-Data Interaction Guidelines and Semio-Participatory Design. (2020) Lecture Notes in Business Information Processing, 378 LNBIP, pp. 334 - 360.
+
+
+(116) Thinyane M. Standardizing social justice in digital health: An HDI-informed health informatics architecture. (2020) International Journal of Standardization Research, 18 (1), pp. 24 - 43.
+
+
+(117) José Viterbo L.V., Barcellos R., Bernardini F., Salgado L., Trevisan D. Investigating communicability issues in the open data manipulation flow. (2020) 26th Americas Conference on Information Systems, AMCIS 2020.
+
+
+(118) Razmi F. The emerging human-data interaction in UX research field. (2019) Proceedings of the 21st International Conference on Engineering and Product Design Education: Towards a New Innovation Landscape, E and PDE 2019.
+
+
+(119) Ninkov A., Sedig K. VINCENT: A visual analytics system for investigating the online vaccine debate (2019) Online Journal of Public Health Informatics.
+
+
+(120) Blount T., Koesten L., Zhao Y., Simperl E. Understanding the Use of Narrative Patterns by Novice Data Storytellers. (2020) CHIRA 2020 - Proceedings of the 4th International Conference on Computer-Human Interaction Research and Applications, pp. 128 - 138.
+
+
+(121) Coleti T.A., Corrêa P.L.P., Filgueiras L.V.L., Morandini M. TR-Model. A Metadata Profile Application for Personal Data Transparency. (2020) IEEE Access, 8, art. no. 9069871, pp. 75184 - 75209.
+
+
+(122) Lockwood M. An Accessible Interface Layer for Self-Sovereign Identity. (2020) Frontiers in Blockchain, 3, art. no. 609101.
+
+
+(123) Thinyane M. Operationalizing Data Justice in Health Informatics. (2019) 11th Academic Conference ITU Kaleidoscope: ICT for Health: Networks, Standards and Innovation, ITU K 2019, art. no. 8996149.
+
+
+(124) Fu B., Steichen B., Zhang W. Towards Adaptive Ontology Visualization - Predicting User Success from Behavioral Data. (2019) International Journal of Semantic Computing, 13 (4), pp. 431 - 452.
+
+
+(125) Sathiyanarayanan M., Sokkanarayanan S. Understanding the Emergence and Importance of Blockchain-based Cyber-physical Social Machines: A Proposal. (2019) Proceedings of the 4th International Conference on Contemporary Computing and Informatics, IC3I 2019, art. no. 9055513, pp. 142 - 147.
+
+
+(126) Lee-Smith M., Tso F.P., Ross T., Morley J., Maguire M., Cavazzi S. The data hungry home defining, populating, feeding, and beyond. (2019) ACM International Conference Proceeding Series, art. no. 3363390.
+
+
+(127) De Almeida M.C.G., De Castro Salgado L.C. Investigating Google dashboard's explainability to support individual privacy decision making. (2019) IHC 2019 - Proceedings of the 18th Brazilian Symposium on Human Factors in Computing Systems, art. no. 3358438.
+
+
+(128) Kalakoski V., Henelius A., Oikarinen E., Ukkonen A., Puolamäki K. Cognitive ergonomics for data analysis. Experimental study of cognitive limitations in a data-based judgement task. (2019) Behaviour and Information Technology, 38 (10), pp. 1038 - 1047.
+
+
+(129) Santos C.Q., Silveira M.S. Qualitative Studies on Human-data Interaction and Data Analysis Collaboration in Latin America. (2019) ACM International Conference Proceeding Series, art. no. a39.
+
+
+(130) Kalakoski V., Henelius A., Oikarinen E., Ukkonen A., Puolamäki K. Cognitive ergonomics for data analysis Experimental study of cognitive limitations in a data-based judgement task (2019) ECCE 2019 - Proceedings of the 31st European Conference on Cognitive Ergonomics: ''Design for Cognition'', pp. 38 - 40.
+
+
+(131) Wolff A., Wermelinger M., Petre M. Exploring design principles for data literacy activities to support children's inquiries from complex data (2019) International Journal of Human Computer Studies, 129, pp. 41 - 54.
+
+
+
+
+(132) Windeyer R.C. Faces between numbers: re-imagining theatre and performance as instruments of critical data studies within a liberal arts education. (2019) Research in Drama Education, 24 (3), pp. 316 - 332.
+
+
+
+
+(133) Smith B.C. Big Data and Us: Human-Data Interactions (2019) European Review.
+
+
+(134) Lee-Smith M., Ross T., Maguire M., Tso F.P., Morley J., Cavazzi S. What can we expect from navigating? Exploring navigation, wearables and data through critical design concepts. (2019) DIS 2019 Companion - Companion Publication of the 2019 ACM Designing Interactive Systems Conference, pp. 237 - 244.
+
+
+(135) Cafaro F., Trajkova M., Alhakamy A. Designing embodied interactions for informal learning: Two open research challenges. (2019) Proceedings - Pervasive Displays 2019 - 8th ACM International Symposium on Pervasive Displays, PerDis 2019, art. no. a28.
+
+
+(136) Bowyer A., Wheater S., Montague K., Wilson R., Snape M. Human-data interaction in the context of care: Co-designing family civic data interfaces and practices. (2019) Conference on Human Factors in Computing Systems - Proceedings, art. no. 3312998.
+
+
+(137) Koesten L., Tennison J., Kacprzak E., Simperl E. Collaborative practices with structured data: Do tools support what users need? (2019) Conference on Human Factors in Computing Systems - Proceedings.
+
+
+(138) Fu B., Steichen B. Using Behavior Data to Predict User Success in Ontology Class Mapping - An Application of Machine Learning in Interaction Analysis. (2019) Proceedings - 13th IEEE International Conference on Semantic Computing, ICSC 2019, art. no. 8665670, pp. 216 - 223
+
+
+(139) Victorelli E.Z., Reis J.C., Santos A.A.S., Schiozer D.J. Participatory Evaluation of Human-Data Interaction Design Guidelines. (2019) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 11746 LNCS, pp. 475 - 494.
+
+
+(140) Victorelli E.Z., Deos Reis J.C., Souza Santos A.A., Schiozer D.J. Design process for human-data interaction: Combining guidelines with semio-participatory techniques. (2019) ICEIS 2019 - Proceedings of the 21st International Conference on Enterprise Information Systems, 2, pp. 410 - 421.
+
+
+
+(141) Cabitza F., Locoro A. Human-data interaction in healthcare: Acknowledging use-related chasms to design for a better health information. (2016) Proceedings of the International Conference on E-Health, EH 2016 - Part of the Multi Conference on Computer Science and Information Systems 2016, pp. 91 - 98.
+
+
+(142) Razmi F. The emerging human-data interaction in UX research field. (2019) Proceedings of the 21st International Conference on Engineering and Product Design Education: Towards a New Innovation Landscape, E and PDE 2019.
+
+
+(143) Coleti T.A., Morandini M., Vilela Leite Filgueiras L., Pizzigatti Correa P.L., de Oliveira I.G., de Barbosa C.R.S.C. Design Patterns to Support Personal Data Transparency Visualization in Mobile Applications. (2019) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 11566 LNCS, pp. 46 - 62.
+
+
+(144) Zikos D., DeLellis N. CDSS-RM: A clinical decision support system reference model (2018) BMC Medical Research Methodology.
+
+
+(145) Gan S., Li K., Wang Y., Cameron C. IoT Based Energy Consumption Monitoring Platform for Industrial Processes. (2018) 2018 UKACC 12th International Conference on Control, CONTROL 2018, art. no. 8516828, pp. 236 - 240.
+
+
+(146) Barreto P., Salgado L., Viterbo J. Assessing the communicability of human-data interaction mechanisms in transparency enhancing tools (2018) Proceedings of the 2018 Federated Conference on Computer Science and Information Systems, FedCSIS 2018, pp. 897 - 906.
+
+
+(147) Amer-Yahia S. Human factors in data science. (2018) Proceedings - IEEE 34th International Conference on Data Engineering, ICDE 2018, art. no. 8509230, pp. 1 - 12.
+
+
+(148) Strey M.R., Pereira R., de Castro Salgado L.C. Human data-interaction: A systematic mapping. (2018) ACM International Conference Proceeding Series, art. no. 27.
+
+
+(149) Locoro A. A data file: Value and communication of information at the time of human-data interaction design [A fil di dato: Valore e comunicazione dell’informazione al tempo dello human-data interaction design]. (2018) Mondo Digitale, 17 (78).
+
+
+(150) Groth P., Koesten L., Mayr P., De Rijke M., Simperl E.DATA: SEARCH'18 - Searching data on the web.(2018) 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2018, pp. 1419 - 1422.
+
+
+(151) ekete J.-D., Rong K., Omidvar-Tehrani B., Shraga R.
+Eighth Workshop on Human-In-the-Loop Data Analytics (HILDA)
+(2024) Proceedings of the ACM SIGMOD International Conference on Management of Data, pp. 657 - 658.
+
+
+(152) Barreto P., Salgado L., Viterbo J. Transparency communication strategies in human-data interaction [Estratégias de comunicação da transparência na interação humano-dados]. (2018) ACM International Conference Proceeding Series, pp. 520 - 527.
+
+
+(153) Wolff A., Seffah A., Kortuem G., Van Der Linden J. Designing for effective interactions with data in the internet of things. (2018) DIS 2018 - Companion Publication of the 2018 Designing Interactive Systems Conference, pp. 415 - 418.
+
+
+(154) Koesten L. A User Centred Perspective on Structured Data Discovery. (2018) The Web Conference 2018 - Companion of the World Wide Web Conference, WWW 2018, pp. 849 - 853.
+
+
+(155) Cafaro F., Lyons L., Antle A.N. Framed guessability: Improving the discoverability of gestures and body movements for full-body interaction. (2018) Conference on Human Factors in Computing Systems - Proceedings, 2018-April.
+
+
+(156) Concannon S.J., Balaam M., Comber R., Simpson E. Applying computational analysis to textual data from the wild: A feminist perspective. (2018) Conference on Human Factors in Computing Systems - Proceedings, 2018-April.
+
+
+(157) Cafaro F., Mishra S. Full body interaction beyond fun: Engaging museum visitors in human-data interaction. (2018) TEI 2018 - Proceedings of the 12th International Conference on Tangible, Embedded, and Embodied Interaction, 2018-January, pp. 313 - 319.
+
+
+(158) Ola O., Sedig K. Discourse with visual health data: Design of human-data interaction (2018) Multimodal Technologies and Interaction, 2 (1), art. no. 10.
+
+
+(159) Seffah A. Citizen observatories: Challenges informing an HCI design research agenda. (2018) Interactions, 25 (2), pp. 52 - 57.
+
+
+(160) Seidelin C., Dittrich Y., Grönvall E. Data work in a knowledge-broker organisation: How cross-organisational data maintenance shapes human data interactions. (2018) Proceedings of the 32nd International BCS Human Computer Interaction Conference, HCI 2018.
+
+
+(161) Romero N., Sharma M. Designing human data interactions in Healthcare (2018) EAI Endorsed Transactions on Pervasive Health and Technology.
+
+
+(162) Roberts J., Lyons L. The value of learning talk: applying a novel dialogue scoring method to inform interaction design in an open-ended, embodied museum exhibit. (2017) International Journal of Computer-Supported Collaborative Learning, 12 (4), pp. 343 - 376.
+
+
+(163) Widjojo E.A., Chinthammit W., Engelke U. Virtual reality-based human-data interaction. (2017) 2017 International Symposium on Big Data Visual Analytics, BDVA 2017, art. no. 8114627.
+
+(164) Widjojo E.A., Chinthammit W., Engelke U. Virtual reality-based human-data interaction. (2017) 2017 International Symposium on Big Data Visual Analytics, BDVA 2017, art. no. 8114627.
+
+
+(165) Kaipainen M., Pitkänen O., Ab P. Human-controlled iterative subclustering analysis. (2017) Proceedings - 2017 IEEE International Conference on Big Data, Big Data 2017, 2018-January, pp. 4754 - 4756.
+
+
+(166) Nunes N., Ribeiro M., Prandi C., Nisi V. Beanstalk - A community based passive Wi-Fi tracking system for analysing tourism dynamics. (2017) Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems, EICS 2017, pp. 93 - 98.
+
+
+(167) Locoro A., Cabitza F., Actis-Grosso R., Batini C. Static and interactive infographics in daily tasks: A value-in-use and quality of interaction user study. (2017) Computers in Human Behavior, 71, pp. 240 - 257.
+
+
+(168) Ferrario M.A., Simm W., Gradinar A., Forshaw S., Smith M.T., Lee T., Smith I., Whittle J. Computing and mental health: Intentionality and reflection at the click of a button. (2017) ACM International Conference Proceeding Series, pp. 1 - 10.
+
+
+(169) Koesten L.M., Kacprzak E., Tennison J.F.A., Simperl E. The trials and tribulations of working with structured data - A study on information seeking behaviour. (2017) Conference on Human Factors in Computing Systems - Proceedings, 2017-May, pp. 1277 - 1289.
+
+
+(170) Cabitza F., Locoro A. Human-data interaction in healthcare: Acknowledging use-related chasms to design for a better health information. (2016) Proceedings of the International Conference on E-Health, EH 2016 - Part of the Multi Conference on Computer Science and Information Systems 2016, pp. 91 - 98.
+
+
+(171) Hutton L., Henderson T. Beyond the EULA: Improving Consent for Data Mining (2017) Studies in Big Data, 32, pp. 147 - 167.
+
+
+(172) Allot A., Chennen K., Nevers Y., Poidevin L., Kress A., Ripp R., Thompson J.D., Poch O., Lecompte O. Mygenefriends: A social network linking genes, genetic diseases, and researchers (2017) Journal of Medical Internet Research.
+
+
+(173) Jones R., Sailaja N., Kerlin L. Probing the design space of usable privacy policies: A qualitative exploration of a reimagined privacy policy. (2017) HCI 2017: Digital Make Believe - Proceedings of the 31st International BCS Human Computer Interaction Conference, HCI 2017, 2017-July.
+
+
+(174) Meireles P.E.L.R., Hornung H. Human values in human-data interaction (2016) ACM International Conference Proceeding Series, Part F128046, art. no. a50.
+
+
+(175) Chowdhury S.N., Dhawan S. HDI based data ownership model for smart cities (2016) 2016 International Conference on Recent Trends in Information Technology, ICRTIT 2016, art. no. 7569514.
+
+
+(176) Wilke G., Portmann E. Granular computing as a basis of human–data interaction: a cognitive cities use case. (2016) Granular Computing, 1 (3), pp. 181 - 197.
+
+
+(177) Crabtree A. Enabling the new economic actor: Personal data regulation and the digital economy. (2016) Proceedings - 2016 IEEE International Conference on Cloud Engineering Workshops, IC2EW 2016, art. no. 7527827, pp. 124 - 129.
+
+
+(178) Cabitza F., Locoro A., Fogli D., Giacomin M. Valuable visualization of healthcare information: From the quantified self data to conversations. (2016) Proceedings of the Workshop on Advanced Visual Interfaces AVI, 07-10-June-2016, pp. 376 - 380.
+
+
+(179) Cabitza F., Locoro A. Human-data interaction in healthcare: Acknowledging use-related chasms to design for a better health information. (2016) Proceedings of the International Conference on E-Health, EH 2016 - Part of the Multi Conference on Computer Science and Information Systems 2016, pp. 91 - 98.
+
+
+(180) Parviainen J. Quantified bodies in the checking loop: Analyzing the choreographies of biomonitoring and generating big data. (2016) Human Technology, 12 (1), pp. 56 - 73.
+
+
+(181) Cabitza F., Del Zotti F., Locoro A. Probing interactivity in open data for General Practice. An evidence-based approach. (2016) CEUR Workshop Proceedings, 1658, pp. 35 - 42.
+
+
+(182) Knight S., Anderson T.D. Action-oriented, accountable, and inter(active) learning analytics for learners. (2016) CEUR Workshop Proceedings, 1596, pp. 47 - 51.
+
+
+(183) Babaee M., Yu X., Merget D., Babaeian A., Rigoll G., Datcu M.P. Interactive feature learning from SAR image patches (2015) International Geoscience and Remote Sensing Symposium (IGARSS).
+
+
+(184) Hornung H., Pereira R., Baranauskas M.C.C., Liu K. Challenges for human-data interaction – a semiotic perspective. (2015) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 9169, pp. 37 - 48.
+
+
+(185) Locoro A. A map is worth a thousand data: Requirements in tertiary human-data interaction to foster participation. (2015) CEUR Workshop Proceedings, 1641, pp. 39 - 44.
+
+
+(186) Cabitza F., Del Zotti F., Locoro A. Probing interactivity in open data for General Practice. An evidence-based approach. (2016) CEUR Workshop Proceedings, 1658, pp. 35 - 42.
+
+
+(187) Pacheco D., Wierenga S., Omedas P., Wilbricht S., Knoch H., Verschure P.F.M.J. Spatializing experience: A framework for the geolocalization, visualization and exploration of historical data using VR/AR technologies. (2014) ACM International Conference Proceeding Series, 2014-April, art. no. a1.
+
+
+(188) Mashhadi A.J., Kawsar F., Günay Acer U. Human Data Interaction in IoT: The ownership aspect (2014) 2014 IEEE World Forum on Internet of Things, WF-IoT 2014.
+
+
+(189) Roberts J.A., Lyons L.B., Cafaro F., Eydt R. Interpreting data from within: Supporting human-data interaction in museum exhibits through perspective taking (2014) ACM International Conference Proceeding Series.
+
+
+(190) Proceedings of the 2014 Conference on Interaction Design and Children (2014) ACM International Conference Proceeding Series. (Nota: Por se tratar apenas dos anais da conferência, não há autores específicos listados).
+
+
+(191) Liu R., Zhang M., Weng C., Zheng W., Zhuang G., Yu K. Web data display system based on data segment technology of MDSplus (2014) Yuanzineng Kexue Jishu/Atomic Energy Science and Technology.
+
+
+(192) Vasuki Y., Holden E.J., Kovesi P.D., Micklethwaite S. Semi-automatic mapping of geological Structures using UAV-based photogrammetric data: An image analysis approach (2014) Computers and Geosciences.
+
+
+(193) Said A., Bellogín A. You are what you eat! Tracking health through recipe interactions.(2014) CEUR Workshop Proceedings, 1271.

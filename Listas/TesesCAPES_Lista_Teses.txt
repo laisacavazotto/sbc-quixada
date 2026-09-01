@@ -1,0 +1,19 @@
+﻿(1) Capeleti B.S. HUMAN-DATA INTERACTION IN GEOPROCESSING APPLICATIONS: DESIGN RECOMMENDATIONS FROM INSPECTIONS, USER EVALUATIONS AND EXPERT EXPERIENCES (2024) Universidade Federal de Lavras.
+
+
+(2) Dias E.Z.V. Design and Evaluation of the user experience in Human-Data Interaction: An approach combining guidelines and participatory design (2021) Universidade Estadual de Campinas.
+
+
+(3) Strey M.R. HUMAN-DATA IDEATION: UM FRAMEWORK CONCEITUAL PARA APOIAR O ENTENDIMENTO DE PROBLEMAS EM INTERAÇÃO HUMANO-DADOS (2019) Universidade Federal do Paraná.
+
+
+(4) Coleti T.A. TR-Model: um perfil de aplicação de metadados para transparência de dados pessoais em aplicações de software (2020) Universidade de São Paulo.
+
+
+(5) Santos P.B. Aplicação do Método de Inspeção Semiótica Científico para Avaliação da Interação Humano-Dados (2019) Universidade Federal Fluminense.
+
+
+(6) Almeida M.C.G. Explicação como Apoio ao Processo de Decisão sobre Privacidade Individual (2019) Universidade Federal Fluminense.
+
+
+(7) Belizario M.G. Interação de cidadãos com plataformas de grafos de conhecimento: um estudo crítico sobre perfis, funcionalidades e recursos interativos sob a luz da interação humano-dados (2023) Universidade Tecnológica Federal do Paraná.

@@ -3,12 +3,22 @@
 % Created by Jomi Hubner & Rafael Bordini, june 2001
 % updated march 2005
 % updated december 2017
+%    Removed caption2, use caption
+%    Compatible with hyperref
+% updated april 2024 by Geraldo Xexéo 
+%    Fixed error in keywords
+%    Use only one code for keywords and palavraschave, avoid duplication
+%    Using Overleaf/pdfLaTeX/2023  
+%    Fix spaces between Abstract/Keywords
+%    (must be tight)
+%    
+%
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{sbc-template}[2001/06/09]
 
-% margem sup 3.5 cm: h� 1,5 cm para header, + 2 cm para top
-% margem inf 2.5 cm: h� 1,5 cm para foot, + 1 cm para bottom
+% margem sup 3.5 cm: h? 1,5 cm para header, + 2 cm para top
+% margem inf 2.5 cm: h? 1,5 cm para foot, + 1 cm para bottom
 % margem esq/dir 3 cm
 \RequirePackage[a4paper,top=3.5cm,left=3cm,right=3cm,bottom=2.5cm]{geometry}
 
@@ -146,25 +156,53 @@
 \let\maketitleOLD\maketitle
 \renewcommand{\maketitle}{\maketitleOLD\thispagestyle{empty}}
 
-\renewenvironment{abstract}{%
-      \list{}{\advance\topsep by6pt\relax%\small
-      \leftmargin=0.8cm
-      \labelwidth=\z@
-      \listparindent=\z@
-      \itemindent\listparindent
-      \rightmargin\leftmargin}\item[\hskip\labelsep
-                                    \bfseries\itshape Abstract.]\itshape}%
-      {\endlist}
+\renewenvironment{abstract}[1][Abstract]{%
+    \list{}{\advance\topsep by6pt\relax%\small
+    \leftmargin=0.8cm
+    \labelwidth=\z@
+    \listparindent=\z@
+    \itemindent\listparindent
+    \rightmargin\leftmargin}\item[\hskip\labelsep
+    \bfseries\itshape #1.]\itshape}%
+    {\endlist}
 
+% Now a single code is used (17 apr 2024)
 \newenvironment{resumo}{%
-      \list{}{\advance\topsep by6pt\relax%\small
+      \begin{abstract}[Resumo]}
+      {\end{abstract}}
+
+% (17 apr 2024)
+% this is a bad solution, and is the 2005 solution
+% brought back from the past
+% but the 2017 solution creates spaces where 
+% they are not needed
+\providecommand{\keywords}[2][Keywords]
+{   %\vspace{6pt}
+    %\small
+    %\textbf{\textit{#1 --- }} #2
+      {\list{}{\advance%
+      \topsep by6pt%
+      %\relax\small
       \leftmargin=0.8cm
       \labelwidth=\z@
       \listparindent=\z@
+      \setlength\topsep{-20 pt}
       \itemindent\listparindent
-      \rightmargin\leftmargin}\item[\hskip\labelsep
-                                    \bfseries\itshape Resumo.]\itshape}%
-      {\endlist}
+      \rightmargin\leftmargin}%
+      \item[\hskip\labelsep                                    \bfseries\itshape #1]\itshape#2%
+      \endlist}
+      }     
+
+% (17 apr 2024)
+% 2017 solution was to copy the 
+% code of keywords, but now we keep just 
+% one code
+\providecommand{\palavraschave}[2]
+{\keywords[Palavras-Chave]{#1}}
+
+
+      
+
 
 %Updated 2017. If hyperref is used, do not change references styles
 \RequirePackage{etoolbox}%
@@ -197,4 +235,5 @@
 		  }% 
 		\makeatother%
 	}%
+ {}%
 }%

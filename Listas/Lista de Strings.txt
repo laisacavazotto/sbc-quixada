@@ -1,0 +1,19 @@
+﻿Lista de Strings
+
+
+
+
+Base de Dados
+	String de Busca Exata Aplicada
+	Scopus
+	TITLE-ABS-KEY ( "Human-Data Interaction" OR "HDI" ) AND PUBYEAR > 2013 AND PUBYEAR < 2025
+	Science Direct
+	Title, abstract, keywords: ("Human-Data Interaction" OR "HDI") AND Years: 2014-2024
+	Portal CAPES
+	assunto:("Human-Data Interaction" OR "Interação Humano-Dados") AND data_de_publicação:[2014 TO 2024]
+	Teses USP 
+	"Human-Data Interaction" (Filtro temporal: 2014 a 2024 aplicado na interface)
+	Teses CAPES
+
+
+	"Human-Data Interaction" (Filtro temporal: 2014 a 2024 aplicado na interface)

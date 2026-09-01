@@ -1,0 +1,40 @@
+﻿(1) Chatzimichali A., Harrison R., Chrysostomou D. Toward privacy-sensitive human–robot interaction: Privacy terms and human–data interaction in the personal robot era (2020) Paladyn Journal of Behavioral Robotics.
+
+
+(2) Ola O., Sedig K. Discourse with Visual Health Data: Design of Human-Data Interaction (2018) Multimodal Technologies and Interaction.
+
+
+(3) Tendedez H., Ferrario M.A., McNaney R., Gradinar A. Exploring Human-Data Interaction in Clinical Decision-making Using Scenarios: Co-design Study (2022) JMIR Human Factors.
+
+
+(4) Santos P., Salgado L.C.C., Viterbo J. Assessing the Communicability of Human-Data Interaction Mechanisms in Transparency Enhancing Tools (2018) Annals of Computer Science and Information Systems.
+
+
+(5) Romero N., Sharma M. Designing human data interactions in Healthcare (2018) EAI Endorsed Transactions on Pervasive Health and Technology.
+
+
+(6) Yashin A.I., Wu D., Arbeev K.G., Bagley O., Akushevich I., Duan M., Yashkin A., Ukraintseva S. Interplay between stress-related genes may influence Alzheimer’s disease development: The results of genetic interaction analyses of human data (2021) Mechanisms of Ageing and Development.
+
+
+(7) Bird J.J., Ekárt A., Faria D.R. Chatbot Interaction with Artificial Intelligence: human data augmentation with T5 and language transformer ensemble for text classification (2021) Journal of Ambient Intelligence and Humanized Computing.
+
+
+(8) Salim S.I., Al-Nabhan N., Rahaman M., Islam N., Toha T.R., Noor J., Quaium A., Mostak A., Hossain M., Mushfiq M.M., Al Islam A.B.M.A. Human-Survey Interaction (HSI): A Study on Integrity of Human Data Collectors in a Mass-Scale Hajj Pilgrimage Survey (2021) IEEE Access.
+
+
+(9) Mäkitalo N., Flores-Martín D., Berrocal J., Garcí­a-Alonso J., Ihantola P., Ometov A., Murillo J.M., Mikkonen T. The Internet of Bodies Needs a Human Data Model (2020) IEEE Internet Computing.
+
+
+(10) Rajalingam D., Nymoen I., Nyberg H., Nielsen M.B., Einarsen S., Gjerstad J. Workplace bullying increases the risk of anxiety through a stress-induced β2-adrenergic receptor mechanism: a multisource study employing an animal model, cell culture experiments and human data (2021) International Archives of Occupational and Environmental Health.
+
+
+(11) Mullick P., Fontaine S., Appert-Rolland C., Olivier A.H., Warren W.H., Pettré J. Analysis of emergent patterns in crossing flows of pedestrians reveals an invariant of ‘stripe’ formation in human data (2022) PLoS Computational Biology.
+
+
+(12) Mäkitalo N., Flores-Martín D., Flores H., Lagerspetz E., Christophe F., Ihantola P., Babazadeh M., Hui P., Murillo J.M., Tarkoma S., Mikkonen T. Human Data Model (2020) ACM Transactions on Computing for Healthcare.
+
+
+(13) Balzli D., Rehberg D., Ebert L., Enders M., Sieberth T. 3D multimodal teaching of human anatomy and autopsy with real human data (2022) Forensic Imaging.
+
+
+(14) Horáček J., Radolf V., Bula V., Laukkanen A.M. Experimental modelling and human data of glottal area declination rate for vowel and semi-occluded vocal tract phonation (2021) Biomedical Signal Processing and Control.

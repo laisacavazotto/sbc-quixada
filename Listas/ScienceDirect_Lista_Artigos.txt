@@ -1,0 +1,155 @@
+﻿(1) Anciaux N., Bonnet P., Bouganim L., Nguyen B., Pucheral P., Sandu Popa I., Scerri G. Personal Data Management Systems: The security and functionality standpoint (2019) Information Systems.
+
+
+(2) Moorthy P., Weinert L., Schüttler C., Svensson L., Sedlmayr B., Müller J., Nagel T. Attributes, Methods, and Frameworks Used to Evaluate Wearables and Their Companion mHealth Apps: Scoping Review (2024) JMIR mHealth and uHealth.
+
+
+(3) Zou N., Liang S., He D. Issues and challenges of user and data interaction in healthcare-related IoT: A systematic review (2020) Library Hi Tech.
+
+
+(4) Mahboubi A., Luong K., Aboutorab H., Bui H. T., Jarrad G., Bahutair M., Camtepe S., Pogrebna G., Ahmed E., Barry B., Gately H. Evolving techniques in cyber threat hunting: A systematic review (2024) Journal of Network and Computer Applications.
+
+
+(5) Andrews J. A., Rawsthorne M., Manolescu C., McFaul M. B., French B., Rye E., McNaughton R., Baliousis M., Smith S., Biswas S., Baker E., Repper D., Long Y., Jilani T., Clos J., Higton F., Moghaddam N., Malins S. Involving psychological therapy stakeholders in responsible research to develop an automated feedback tool: Learnings from the ExTRAPPOLATE project (2022) Journal of Responsible Technology.
+
+
+(6) Brissaud D., Sakao T., Riel A., Erkoyuncu J. A. Designing value-driven solutions: The evolution of industrial product-service systems (2022) CIRP Annals.
+
+
+(7) Thinyane M. Standardizing Social Justice in Digital Health: (2020) International Journal of Standardization Research.
+
+
+(8) Koesten L., Vougiouklis P., Simperl E., Groth P. Dataset Reuse: Toward Translating Principles to Practice (2020) Patterns.
+
+
+(9) El Beheiry M., Hajj B., Masson J. B., Dahan M. High-Speed Localization Microscopy and Single-Particle Tracking (2023) Encyclopedia of Cell Biology.
+
+
+(10) Casado J., Díaz-Merced W., García B., Schneps M., Kolemberg K., Rychtarikova M., Roozen N. B. Sonification as a Tool for Data Analysis: (2022) International Journal of Sociotechnology and Knowledge Development.
+
+
+(11) Vasuki Y., Holden E. J., Kovesi P., Micklethwaite S. Semi-automatic mapping of geological Structures using UAV-based photogrammetric data: An image analysis approach (2014) Computers \& Geosciences.
+
+
+(12) Sewwandi M. A. N. D., Li Y., Zhang J. A class-specific feature selection and classification approach using neighborhood rough set and K-nearest neighbor theories (2023) Applied Soft Computing.
+
+
+(13) Arhonditsis G. B., Neumann A., Ruscica P., Javed A., Daxberger H. Integration of Bayesian Inference Techniques with Mathematical Modeling (2024) Treatise on Estuarine and Coastal Science.
+
+
+(14) Kaufmann K., Bork-Hüffer T., Gudowsky N., Rauhala M., Rutzinger M. Ethical challenges of researching emergent socio-material-technological phenomena: insights from an interdisciplinary mixed-methods project using mobile eye-tracking (2021) Journal of Information, Communication and Ethics in Society.
+
+
+(15) Herrmann T., Ackerman M. S., Goggins S. P., Stary C., Prilla M. Designing Health Care That Works—Socio-technical Conclusions (2018) Designing Healthcare That Works.
+
+
+(16) Sala-Vilar L. R., Li-Ying J., Traunecker T. How do innovation intermediaries’ business models cope with their need to develop new digital services? Technovation (2024).
+
+
+(17) Tendedez H., Ferrario M. A., McNaney R., Gradinar A. Exploring Human-Data Interaction in Clinical Decision-making Using Scenarios: Co-design Study  JMIR Human Factors (2022).
+
+
+(18) Bavaresco M. V., D'Oca S., Ghisi E., Lamberts R. 
+Technological innovations to assess and include the human dimension in the building-performance loop: A review Energy and Buildings(2019).
+
+
+(19) Mu R., Zhao X. How do institutional dimensions of open government data affect innovation? Evidence from research institutes in China (2024) Aslib Journal of Information Management.
+
+
+(20) Seidelin C., Dittrich Y., Grönvall E. Foregrounding data in co-design – An exploration of how data may become an object of design (2020) International Journal of Human-Computer Studies.
+
+
+(21) Malgieri G., Niklas J. Vulnerable data subjects (2020) Computer Law & Security Review.
+
+
+(22) Allot A., Chennen K., Nevers Y., Poidevin L., Kress A., Ripp R., Thompson J. D., Poch O., Lecompte O. MyGeneFriends: A Social Network Linking Genes, Genetic Diseases, and Researchers (2017) Journal of Medical Internet Research.
+
+
+(23) Malgieri G. Automated decision-making in the EU Member States: The right to explanation and other “suitable safeguards” in the national legislations (2019) Computer Law e Security Review.
+
+
+(24) Janeček V. Ownership of personal data in the Internet of Things (2018) Computer Law & Security Review.
+
+
+(25) Locoro A., Cabitza F., Actis-Grosso R., Batini C. Static and interactive infographics in daily tasks: A value-in-use and quality of interaction user study (2017) Computers in Human Behavior.
+
+
+(26) Velazco-Garcia J. D., Shah D. J., Leiss E. L., Tsekos N. V. A modular and scalable computational framework for interactive immersion into imaging data with a holographic augmented reality interface (2021) Computer Methods and Programs in Biomedicine.
+
+
+(27) Victorelli E. Z., Dos Reis J. C., Hornung H., Prado A. B. Understanding human-data interaction: Literature review and recommendations for design (2020) International Journal of Human-Computer Studies.
+
+
+(28) Shin D. H., Biocca F. Health experience model of personal informatics: The case of a quantified self (2017) Computers in Human Behavior.
+
+
+(29) Koesten L., Simperl E., Blount T., Kacprzak E., Tennison J. Everything you always wanted to know about a dataset: Studies in data summarisation (2020) International Journal of Human-Computer Studies.
+
+
+(30) Koesten L., Gregory K., Groth P., Simperl E. Talking datasets – Understanding data sensemaking behaviours (2021) International Journal of Human-Computer Studies.
+
+
+(31) Dix A. Human–computer interaction, foundations and new paradigms (2017) Journal of Visual Languages & Computing.
+
+
+(32) Chalhoub G., Kraemer M. J., Flechais I. Useful shortcuts: Using design heuristics for consent and permission in smart home devices (2024) International Journal of Human-Computer Studies.
+
+
+(33) Kenderdine S., Nicholson J. K., Mason I. Chapter 12 - Modeling People and Populations: Exploring Medical Visualization Through Immersive Interactive Virtual Environments (2016) Metabolic Phenotyping in Personalized and Public Healthcare.
+
+
+(34) Wolff A., Wermelinger M., Petre M. Exploring design principles for data literacy activities to support children’s inquiries from complex data (2019) International Journal of Human-Computer Studies.
+
+
+(35) Calvetti D., Mêda P., de Sousa H., Gonçalves M. C., Faria J. M. A., da Costa J. M. Experiencing Education 5.0 for Civil Engineering (2024) Procedia Computer Science.
+
+
+(36) Stacchio L., Garzarella S., Cascarano P., De Filippo A., Cervellati E., Marfia G. DanXe: An extended artificial intelligence framework to analyze and promote dance heritage (2024) Digital Applications in Archaeology and Cultural Heritage.
+
+
+(37) Scheer J., Volkert A., Brich N., Weinert L., Santhanam N., Krone M., Ganslandt T., Boeker M., Nagel T. Visualization Techniques of Time-Oriented Data for the Comparison of Single Patients With Multiple Patients or Cohorts: Scoping Review (2022) Journal of Medical Internet Research.
+
+
+(38) Green M. H., Davies P., Ng I. C. L. Two strands of servitization: A thematic analysis of traditional and customer co-created servitization and future research directions (2017) International Journal of Production Economics.
+
+
+(39) Dowthwaite A., Cook D., Cox A. L. Privacy preferences in automotive data collection (2024) Transportation Research Interdisciplinary Perspectives.
+
+
+(40) Cezar B. G. S., Maçada A. C. G. Cognitive Overload, Anxiety, Cognitive Fatigue, Avoidance Behavior and Data Literacy in Big Data environments (2023) Information Processing & Management.
+
+
+(41) Sivarajah Y., Holden E. J., Togneri R., Price G., Tan T. Quantifying target spotting performances with complex geoscientific imagery using ERP P300 responses (2014) International Journal of Human-Computer Studies.
+
+
+(42) Kaffee L. A., Simperl E. The Human Face of the Web of Data: A Cross-sectional Study of Labels (2018) Procedia Computer Science.
+
+
+(43) Ferreira M., Nunes N., Ferreira P., Pereira H., Nisi V. Connecting audiences with climate change: Towards humanised and action-focused data interactions (2024) International Journal of Human-Computer Studies.
+
+
+(44) El Beheiry M., Doutreligne S., Caporal C., Ostertag C., Dahan M., Masson J. B. Virtual Reality: Beyond Visualization (2019) Journal of Molecular Biology.
+
+
+(45) Barcellos R., Bernardini F., Viterbo J. Towards defining data interpretability in open data portals: Challenges and research opportunities (2022) Information Systems.
+
+
+(46) Clarke S. E. B. 1 - Clothing+embedded technology: Past challenges, future opportunities (2023) Smart Clothes and Wearable Technology.
+
+
+(47) Bar-Gil O., Ron T., Czerniak O. AI for the people? Embedding AI ethics in HR and people analytics projects (2024) Technology in Society.
+
+
+(48) Angelopoulos S., Brown M., McAuley D., Merali Y., Mortier R., Price D. Stewardship of personal data on social networking sites (2021) International Journal of Information Management.
+
+
+(49) Ipenza J. C. C., Romero N. M. L., Loreto M., Júnior N. F., Comba J. L. D. QDS-COVID: A visual analytics system for interactive exploration of millions of COVID-19 healthcare records in Brazil (2022) Applied Soft Computing.
+
+
+(50) El Beheiry M., Godard C., Caporal C., Marcon V., Ostertag C., Sliti O., Doutreligne S., Fournier S., Hajj B., Dahan M., Masson J. B. DIVA: Natural Navigation Inside 3D Images Using Virtual Reality (2020) Journal of Molecular Biology.
+
+
+(51) Sosunova I., Happonen A., Wolff A., Porras J. Towards a Smarter Waste Management: (2023) International Journal of Social Ecology and Sustainable Development.
+
+
+(52) Shin G., Jarrahi M. H., Fei Y., Karami A., Gafinowitz N., Byun A., Lu X. Wearable activity trackers, accuracy, adoption, acceptance and health impact: A systematic literature review (2019) Journal of Biomedical Informatics.

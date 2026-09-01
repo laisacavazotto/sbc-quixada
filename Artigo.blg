@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Artigo.aux
+The style file: sbc.bst
+Database file #1: Referencias/referencias.bib
+Warning--empty booktitle in Sailaja2021Designing
+You've used 60 entries,
+            1935 wiz_defined-function locations,
+            862 strings with 18616 characters,
+and the built_in function-call counts, 25013 in all, are:
+= -- 2412
+> -- 1155
+< -- 35
++ -- 400
+- -- 389
+* -- 2067
+:= -- 4356
+add.period$ -- 196
+call.type$ -- 60
+change.case$ -- 488
+chr.to.int$ -- 59
+cite$ -- 61
+duplicate$ -- 994
+empty$ -- 1683
+format.name$ -- 471
+if$ -- 4949
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 55
+newline$ -- 303
+num.names$ -- 186
+pop$ -- 456
+preamble$ -- 1
+purify$ -- 485
+quote$ -- 0
+skip$ -- 757
+stack$ -- 0
+substring$ -- 1492
+swap$ -- 172
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 360
+warning$ -- 1
+while$ -- 168
+width$ -- 0
+write$ -- 788
+(There was 1 warning)
